@@ -1,2 +1,2 @@
-# Reconocimiento_Patrones
-Repositorio para el curso de "Reconocimiento de Patrones" del ITCR.
+# Patrones_Inv1
+Repositorio para la investigación 1 del curso de "Reconocimiento de Patrones" del ITCR.
